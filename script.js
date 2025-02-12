@@ -35,7 +35,7 @@ const messages = [
     "Really sure??",
     "Pag sure ba",
     "Please?..",
-    "Jst tuhink about it!",
+    "Just think about it!",
     "If you say no, I will be really sad...",
     "I'm sad na...",
     "Ouch I am crying...",
