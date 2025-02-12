@@ -33,13 +33,13 @@
 const messages = [
     "Are you sure?",
     "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
+    "Pag sure ba",
+    "Please?..",
+    "Jst tuhink about it!",
     "If you say no, I will be really sad...",
-    "I am sad na...",
-    "I cry...",
-    "Ok,I will stop asking...",
+    "I'm sad na...",
+    "Ouch I am crying...",
+    "Hays ok...",
     "Joke lang, say yes please! ❤️"
 ];
 
